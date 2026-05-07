@@ -9,8 +9,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        seqblue: "#1B557A",
-        seqorange: "#C74F13",
+        seqblue: "#00BCFF",
+        seqgreen: "#89D329",
       }
     },
   },
