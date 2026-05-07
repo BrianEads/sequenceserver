@@ -10,7 +10,7 @@ module.exports = {
     extend: {
       colors: {
         seqblue: "#00BCFF",
-        seqgreen: "#89D329",
+        seqorange: "#89D329",
       }
     },
   },
